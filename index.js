@@ -24,7 +24,9 @@ const questions = [
 // function to write README file
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) => {
-    err ? console.error(err) : console.log("Check the new README file!");
+    err
+      ? console.error(err)
+      : console.log("Check the new generatedREADME file!");
   });
 }
 
