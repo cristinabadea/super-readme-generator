@@ -39,7 +39,8 @@ function generateMarkdown(data) {
   [ 6. Questions ](#questions)
 
 
-  ## Installation <div id="installation"/>
+   <div id="installation"/>
+   ## Installation
   ${data.installation}
 
  ## Usage  <div id="usage"/>
