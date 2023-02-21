@@ -10,7 +10,7 @@ function generateMarkdown(data) {
   } else if (data.license === "Boost Software License 1.0") {
     logo = `[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)`;
   } else if (data.license === "Creative Commons Zero") {
-    logo = `[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)`;
+    logo = `[![License: CC0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)`;
   } else if (data.license === "Eclipse Public License") {
     logo = `[![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)`;
   } else if (data.license === "The Unlicense") {
@@ -26,24 +26,23 @@ function generateMarkdown(data) {
 
   ## Table of contents
 
-  [ 1. Installation ](#installation)
+  [1. Installation](#installation)
 
-  [ 2. Usage ](#usage)
+  [2. Usage](#usage)
 
-  [ 3. License ](#license)
+  [3. License](#license)
 
-  [ 4. Contributing ](#contributing)
+  [4. Contributing](#contributing)
 
-  [ 5. Tests ](#tests)
+  [5. Tests](#tests)
 
-  [ 6. Questions ](#questions)
+  [6. Questions](#questions)
 
 
-   <div id="installation"/>
-   ## Installation
+  ## Installation  <div id="installation"/>
   ${data.installation}
 
- ## Usage  <div id="usage"/>
+  ## Usage  <div id="usage"/>
   ${data.usage}
 
   ## License  <div id="license"/>
