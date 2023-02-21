@@ -1,48 +1,41 @@
-# title
+# My title
 
-  [![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
   ## Description
-   description fkjnflksng
+   When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
 
   ## Table of contents
 
-  [ 1.Installation ](#installation)
+  [ 1. Installation ](#installation)
 
-  [ 2.Usage ](#usage)
+  [ 2. Usage ](#usage)
 
-  [ 3.License ](#license)
+  [ 3. License ](#license)
 
-  [ 4.Contributing ](#contributing)
+  [ 4. Contributing ](#contributing)
 
-  [ 5.Tests ](#tests)
+  [ 5. Tests ](#tests)
 
-  [ 6.Questions ](#questions)
+  [ 6. Questions ](#questions)
 
 
-
-  
   ## Installation <div id="installation"/>
-  gdgdgdgd lfnel klenglenlnl ngl gnel nl
+  When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
 
  ## Usage  <div id="usage"/>
-  dferlgknerlkf el 
+  When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
 
- 
-  ##License  <div id="license"/>
-  Eclipse Public License
-
+  ## License  <div id="license"/>
+  The Unlicense
 
   ## Contributing   <div id="contributing"/>
-  tina tina tina
+  When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
 
+  ## Tests - node tests <div id="tests"/>
+  When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
 
-## Tests - node tests <div id="tests"/>
-  no test
-
-
-## Questions  <div id="questions"/>
+  ## Questions  <div id="questions"/>
     
-  
-  *For further questions regarding this project, do not hesitate to reach out by email at cristina.badea30@yahoo.com or on my [GitHub profile](https://github.com/cristinabadea)!*
+  *For further questions regarding this project, do not hesitate to reach out by email at cristina.badea30@yahoo.com or on my [GitHub profile](https://github.com/cristinabadea)! Thank you!*
 
